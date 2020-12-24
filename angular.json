@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "projectmanagement"
+    }
+  },
+  "defaultProject": "projectmanagement",
+  "cli": {
+    "analytics": false
+  }
 }
